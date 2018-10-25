@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 public class SmartLightTest {
 
-    SmartLight s = new SmartLight();
+    SmartLightBulb s = new SmartLightBulb();
 
     @Test
     public void initialValuesTest() {
